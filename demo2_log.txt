@@ -1,0 +1,344 @@
+2025-12-07 17:46:26,589 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:47:03,813 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC01%E9%9B%86/0000102.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 17:47:32,516 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC01%E9%9B%86/0000198.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 17:48:25,751 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:48:25,751 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:48:26,011 - INFO - 视频合成成功: D:\person_code\scrwl\data\第01集.temp.mp4
+2025-12-07 17:48:26,328 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:48:26,328 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:48:26,328 - INFO - 开始视频转码: D:\person_code\scrwl\data\第01集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第01集.mp4
+2025-12-07 17:49:59,343 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第01集.mp4
+2025-12-07 17:49:59,359 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:49:59,359 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:50:00,738 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:50:00,738 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:50:37,399 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC02%E9%9B%86/0000094.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 17:50:45,311 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC02%E9%9B%86/0000124.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 17:50:53,840 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC02%E9%9B%86/0000152.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 17:51:49,757 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC02%E9%9B%86/0000342.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 17:51:54,544 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:51:54,545 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:51:54,784 - INFO - 视频合成成功: D:\person_code\scrwl\data\第02集.temp.mp4
+2025-12-07 17:51:55,096 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:51:55,096 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:51:55,096 - INFO - 开始视频转码: D:\person_code\scrwl\data\第02集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第02集.mp4
+2025-12-07 17:55:22,966 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第02集.mp4
+2025-12-07 17:55:22,991 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:55:22,994 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:55:24,997 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:55:24,997 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:57:13,930 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:57:13,930 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:57:14,042 - INFO - 视频合成成功: D:\person_code\scrwl\data\第03集.temp.mp4
+2025-12-07 17:57:14,144 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:57:14,144 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:57:14,144 - INFO - 开始视频转码: D:\person_code\scrwl\data\第03集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第03集.mp4
+2025-12-07 17:58:47,189 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第03集.mp4
+2025-12-07 17:58:47,207 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:58:47,207 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:58:48,417 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 17:58:48,417 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 17:59:45,429 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC04%E9%9B%86/0000165.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:00:44,223 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:00:44,223 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:00:44,363 - INFO - 视频合成成功: D:\person_code\scrwl\data\第04集.temp.mp4
+2025-12-07 18:00:44,451 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:00:44,451 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:00:44,451 - INFO - 开始视频转码: D:\person_code\scrwl\data\第04集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第04集.mp4
+2025-12-07 18:02:34,396 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第04集.mp4
+2025-12-07 18:02:34,430 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:02:34,430 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:02:35,869 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:02:35,869 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:03:31,328 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC05%E9%9B%86/0000169.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:04:24,152 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC05%E9%9B%86/0000342.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:04:31,430 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:04:31,430 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:04:31,553 - INFO - 视频合成成功: D:\person_code\scrwl\data\第05集.temp.mp4
+2025-12-07 18:04:31,636 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:04:31,636 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:04:31,636 - INFO - 开始视频转码: D:\person_code\scrwl\data\第05集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第05集.mp4
+2025-12-07 18:06:05,997 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第05集.mp4
+2025-12-07 18:06:06,016 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:06:06,017 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:06:07,038 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:06:07,038 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:06:12,321 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC06%E9%9B%86/0000004.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:08:07,825 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:08:07,825 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:08:07,947 - INFO - 视频合成成功: D:\person_code\scrwl\data\第06集.temp.mp4
+2025-12-07 18:08:08,044 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:08:08,045 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:08:08,045 - INFO - 开始视频转码: D:\person_code\scrwl\data\第06集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第06集.mp4
+2025-12-07 18:09:39,892 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第06集.mp4
+2025-12-07 18:09:39,892 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:09:39,907 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:09:41,820 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:09:41,820 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:11:20,528 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC07%E9%9B%86/0000299.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:11:42,278 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:11:42,279 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:11:42,409 - INFO - 视频合成成功: D:\person_code\scrwl\data\第07集.temp.mp4
+2025-12-07 18:11:42,512 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:11:42,513 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:11:42,513 - INFO - 开始视频转码: D:\person_code\scrwl\data\第07集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第07集.mp4
+2025-12-07 18:13:28,453 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第07集.mp4
+2025-12-07 18:13:28,482 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:13:28,487 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:13:29,981 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:13:29,982 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:13:45,631 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC08%E9%9B%86/0000031.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:14:00,253 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC08%E9%9B%86/0000075.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:14:26,371 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC08%E9%9B%86/0000102.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:14:41,815 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC08%E9%9B%86/0000124.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:15:11,449 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC08%E9%9B%86/0000198.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:16:01,104 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:16:01,104 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:16:01,211 - INFO - 视频合成成功: D:\person_code\scrwl\data\第08集.temp.mp4
+2025-12-07 18:16:01,311 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:16:01,312 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:16:01,312 - INFO - 开始视频转码: D:\person_code\scrwl\data\第08集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第08集.mp4
+2025-12-07 18:17:28,632 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第08集.mp4
+2025-12-07 18:17:28,648 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:17:28,648 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:17:30,315 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:17:30,315 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:17:35,358 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC09%E9%9B%86/0000000.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:17:56,134 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC09%E9%9B%86/0000065.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:19:30,162 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:19:30,162 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:19:30,284 - INFO - 视频合成成功: D:\person_code\scrwl\data\第09集.temp.mp4
+2025-12-07 18:19:30,378 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:19:30,378 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:19:30,378 - INFO - 开始视频转码: D:\person_code\scrwl\data\第09集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第09集.mp4
+2025-12-07 18:21:06,235 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第09集.mp4
+2025-12-07 18:21:06,260 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:21:06,261 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:21:07,536 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:21:07,536 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:23:08,335 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:23:08,336 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:23:08,525 - INFO - 视频合成成功: D:\person_code\scrwl\data\第10集.temp.mp4
+2025-12-07 18:23:08,732 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:23:08,733 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:23:08,733 - INFO - 开始视频转码: D:\person_code\scrwl\data\第10集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第10集.mp4
+2025-12-07 18:28:29,267 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第10集.mp4
+2025-12-07 18:28:29,284 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:28:29,285 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:28:30,585 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:28:30,585 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:30:38,568 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC11%E9%9B%86/0000341.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:30:55,108 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC11%E9%9B%86/0000359.ts (第1次重试): HTTPSConnectionPool(host='c1.rrcdnbf3.com', port=443): Read timed out. (read timeout=10)
+2025-12-07 18:30:59,838 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:30:59,838 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:31:00,059 - INFO - 视频合成成功: D:\person_code\scrwl\data\第11集.temp.mp4
+2025-12-07 18:31:00,398 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:31:00,398 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:31:00,398 - INFO - 开始视频转码: D:\person_code\scrwl\data\第11集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第11集.mp4
+2025-12-07 18:35:36,759 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第11集.mp4
+2025-12-07 18:35:36,782 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:35:36,784 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:35:38,582 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:35:38,583 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:35:53,354 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC12%E9%9B%86/0000029.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:36:10,783 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC12%E9%9B%86/0000071.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:37:35,076 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC12%E9%9B%86/0000266.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:38:09,766 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC12%E9%9B%86/0000355.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:38:16,146 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:38:16,146 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:38:16,254 - INFO - 视频合成成功: D:\person_code\scrwl\data\第12集.temp.mp4
+2025-12-07 18:38:16,339 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:38:16,339 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:38:16,339 - INFO - 开始视频转码: D:\person_code\scrwl\data\第12集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第一季\第12集.mp4
+2025-12-07 18:39:54,933 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第一季\第12集.mp4
+2025-12-07 18:39:54,950 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:39:54,951 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:39:56,922 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:39:56,922 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:40:03,914 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18545_3aa2caac/1200k/hls/4bdf3643fa2000009.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:40:21,866 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18545_3aa2caac/1200k/hls/4bdf3643fa2000056.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:40:44,464 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18545_3aa2caac/1200k/hls/4bdf3643fa2000104.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:40:48,374 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18545_3aa2caac/1200k/hls/4bdf3643fa2000118.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:42:16,897 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:42:16,897 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:42:17,008 - INFO - 视频合成成功: D:\person_code\scrwl\data\第01集.temp.mp4
+2025-12-07 18:42:17,106 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:42:17,106 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:42:17,106 - INFO - 开始视频转码: D:\person_code\scrwl\data\第01集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第01集.mp4
+2025-12-07 18:43:53,338 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第01集.mp4
+2025-12-07 18:43:53,353 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:43:53,354 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:43:54,714 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:43:54,715 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:44:12,793 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18543_64f7d1d0/1200k/hls/86cbb4ea655000034.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:45:01,284 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18543_64f7d1d0/1200k/hls/86cbb4ea655000154.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:45:26,494 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18543_64f7d1d0/1200k/hls/86cbb4ea655000220.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:45:58,313 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18543_64f7d1d0/1200k/hls/86cbb4ea655000305.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 18:46:20,597 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:46:20,598 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:46:20,706 - INFO - 视频合成成功: D:\person_code\scrwl\data\第02集.temp.mp4
+2025-12-07 18:46:20,946 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:46:20,947 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:46:20,949 - INFO - 开始视频转码: D:\person_code\scrwl\data\第02集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第02集.mp4
+2025-12-07 18:51:31,637 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第02集.mp4
+2025-12-07 18:51:31,659 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:51:31,660 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:51:33,333 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 18:51:33,333 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 18:53:27,896 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18542_50ec186c/1200k/hls/588033639cd0631381.ts (第1次重试): HTTPSConnectionPool(host='vip1.lz-cdn5.com', port=443): Read timed out. (read timeout=10)
+2025-12-07 18:59:47,823 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18542_50ec186c/1200k/hls/588033639cd000357.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:01:12,543 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:01:12,544 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:01:12,648 - INFO - 视频合成成功: D:\person_code\scrwl\data\第03集.temp.mp4
+2025-12-07 19:01:12,905 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:01:12,906 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:01:12,906 - INFO - 开始视频转码: D:\person_code\scrwl\data\第03集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第03集.mp4
+2025-12-07 19:06:36,713 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第03集.mp4
+2025-12-07 19:06:36,737 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:06:36,738 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:06:38,491 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:06:38,493 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:08:12,433 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18544_005451a9/1200k/hls/eaf863b07c2000206.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:09:23,888 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:09:23,889 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:09:24,042 - INFO - 视频合成成功: D:\person_code\scrwl\data\第04集.temp.mp4
+2025-12-07 19:09:24,350 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:09:24,353 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:09:24,356 - INFO - 开始视频转码: D:\person_code\scrwl\data\第04集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第04集.mp4
+2025-12-07 19:13:58,609 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第04集.mp4
+2025-12-07 19:13:58,623 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:13:58,624 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:14:00,257 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:14:00,258 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:14:21,721 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18546_da2e60ef/1200k/hls/f45c376d3ef000042.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:15:09,374 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18546_da2e60ef/1200k/hls/f45c376d3ef000162.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:16:35,509 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:16:35,510 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:16:35,645 - INFO - 视频合成成功: D:\person_code\scrwl\data\第05集.temp.mp4
+2025-12-07 19:16:35,942 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:16:35,944 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:16:35,944 - INFO - 开始视频转码: D:\person_code\scrwl\data\第05集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第05集.mp4
+2025-12-07 19:22:26,231 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第05集.mp4
+2025-12-07 19:22:26,252 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:22:26,252 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:22:27,524 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:22:27,525 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:28:13,382 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18548_ca155717/1200k/hls/12b25cf05dc000178.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:28:54,701 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18548_ca155717/1200k/hls/12b25cf05dc000253.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:29:43,935 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:29:43,936 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:29:44,111 - INFO - 视频合成成功: D:\person_code\scrwl\data\第06集.temp.mp4
+2025-12-07 19:29:44,394 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:29:44,395 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:29:44,396 - INFO - 开始视频转码: D:\person_code\scrwl\data\第06集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第06集.mp4
+2025-12-07 19:34:18,357 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第06集.mp4
+2025-12-07 19:34:18,372 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:34:18,373 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:34:19,754 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:34:19,754 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:34:43,320 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18547_1a398da8/1200k/hls/854f7bda874000039.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:35:43,628 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18547_1a398da8/1200k/hls/854f7bda874000179.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:35:46,973 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18547_1a398da8/1200k/hls/854f7bda874000184.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:36:03,871 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18547_1a398da8/1200k/hls/854f7bda874000218.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:36:26,411 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18547_1a398da8/1200k/hls/854f7bda874000266.ts (第1次重试): HTTPSConnectionPool(host='vip1.lz-cdn5.com', port=443): Read timed out. (read timeout=10)
+2025-12-07 19:36:29,548 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18547_1a398da8/1200k/hls/854f7bda874000277.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:36:55,105 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18547_1a398da8/1200k/hls/854f7bda874000335.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:37:17,630 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:37:17,630 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:37:17,731 - INFO - 视频合成成功: D:\person_code\scrwl\data\第07集.temp.mp4
+2025-12-07 19:37:17,825 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:37:17,825 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:37:17,825 - INFO - 开始视频转码: D:\person_code\scrwl\data\第07集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第07集.mp4
+2025-12-07 19:38:45,450 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第07集.mp4
+2025-12-07 19:38:45,467 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:38:45,468 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:38:46,941 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:38:46,945 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:41:35,651 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:41:35,651 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:41:35,752 - INFO - 视频合成成功: D:\person_code\scrwl\data\第08集.temp.mp4
+2025-12-07 19:41:35,857 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:41:35,857 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:41:35,857 - INFO - 开始视频转码: D:\person_code\scrwl\data\第08集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第08集.mp4
+2025-12-07 19:43:05,061 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第08集.mp4
+2025-12-07 19:43:05,077 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:43:05,077 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:43:06,163 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:43:06,165 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:44:31,986 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18549_8526d514/1200k/hls/49816588928000130.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:45:25,003 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18549_8526d514/1200k/hls/49816588928000252.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:45:33,605 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18549_8526d514/1200k/hls/49816588928000265.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:46:16,603 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:46:16,603 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:46:16,700 - INFO - 视频合成成功: D:\person_code\scrwl\data\第09集.temp.mp4
+2025-12-07 19:46:16,790 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:46:16,791 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:46:16,791 - INFO - 开始视频转码: D:\person_code\scrwl\data\第09集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第09集.mp4
+2025-12-07 19:47:52,428 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第09集.mp4
+2025-12-07 19:47:52,454 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:47:52,454 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:47:53,914 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:47:53,915 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:49:06,645 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18551_13030882/1200k/hls/288b596aba6000121.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:50:28,093 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18551_13030882/1200k/hls/288b596aba6000301.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:50:55,232 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18551_13030882/1200k/hls/288b596aba6000348.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:51:08,829 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18551_13030882/1200k/hls/288b596aba6000381.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 19:51:16,983 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:51:16,988 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:51:17,082 - INFO - 视频合成成功: D:\person_code\scrwl\data\第10集.temp.mp4
+2025-12-07 19:51:17,176 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:51:17,176 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:51:17,176 - INFO - 开始视频转码: D:\person_code\scrwl\data\第10集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第10集.mp4
+2025-12-07 19:52:55,568 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第10集.mp4
+2025-12-07 19:52:55,587 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:52:55,588 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:52:57,185 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:52:57,186 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:55:44,772 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:55:44,773 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:55:44,945 - INFO - 视频合成成功: D:\person_code\scrwl\data\第11集.temp.mp4
+2025-12-07 19:55:45,241 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 19:55:45,243 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 19:55:45,243 - INFO - 开始视频转码: D:\person_code\scrwl\data\第11集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者第二季\第11集.mp4
+2025-12-07 20:00:17,019 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者第二季\第11集.mp4
+2025-12-07 20:00:17,039 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:00:17,040 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:00:18,100 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:00:18,101 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:01:01,545 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezheOAD/OAD/0000061.ts (第1次重试): HTTPSConnectionPool(host='c1.rrcdnbf3.com', port=443): Read timed out. (read timeout=10)
+2025-12-07 20:01:20,327 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezheOAD/OAD/0000104.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:01:23,229 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezheOAD/OAD/0000105.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:01:42,668 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezheOAD/OAD/0000133.ts (第1次重试): HTTPSConnectionPool(host='c1.rrcdnbf3.com', port=443): Read timed out. (read timeout=10)
+2025-12-07 20:02:22,138 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezheOAD/OAD/0000205.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:02:23,950 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezheOAD/OAD/0000228.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:02:29,071 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezheOAD/OAD/0000205.ts (第2次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:02:57,671 - ERROR - 下载失败 https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezheOAD/OAD/0000273.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:03:51,171 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:03:51,172 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:03:51,381 - INFO - 视频合成成功: D:\person_code\scrwl\data\第01集.temp.mp4
+2025-12-07 20:03:51,696 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:03:51,697 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:03:51,697 - INFO - 开始视频转码: D:\person_code\scrwl\data\第01集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者OAD\第01集.mp4
+2025-12-07 20:09:21,729 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者OAD\第01集.mp4
+2025-12-07 20:09:21,748 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:09:21,749 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:09:23,513 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:09:23,513 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:09:42,740 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/cbd17e5435f000040.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:09:59,388 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/cbd17e5435f000070.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:10:30,647 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/cbd17e5435f000134.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:14:41,511 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/cbd17e5435f000679.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:15:13,437 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/cbd17e5435f000738.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:15:20,917 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/cbd17e5435f000755.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:15:51,148 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/cbd17e5435f000820.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:16:07,758 - ERROR - 下载失败 https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/cbd17e5435f000858.ts (第1次重试): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-07 20:16:25,182 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:16:25,183 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:16:25,588 - INFO - 视频合成成功: D:\person_code\scrwl\data\第01集.temp.mp4
+2025-12-07 20:16:26,038 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:16:26,039 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:16:26,039 - INFO - 开始视频转码: D:\person_code\scrwl\data\第01集.temp.mp4 -> D:\person_code\scrwl\video\新妹魔王的契约者DEPARTURES\第01集.mp4
+2025-12-07 20:25:43,001 - INFO - 视频转码成功: D:\person_code\scrwl\video\新妹魔王的契约者DEPARTURES\第01集.mp4
+2025-12-07 20:25:43,037 - INFO - 从 demo2_status.json 加载任务状态成功
+2025-12-07 20:25:43,038 - INFO - 任务状态已保存到 demo2_status.json
+2025-12-07 20:25:44,087 - INFO - 从 demo2_status.json 加载任务状态成功

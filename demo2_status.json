@@ -1,0 +1,102 @@
+{
+  "1": {
+    "status": "transcoding",
+    "last_updated": "2025-12-07 20:16:26"
+  },
+  "2": {
+    "status": "completed",
+    "last_updated": "2025-12-07 18:51:31",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第02集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18543_64f7d1d0/1200k/hls/mixed.m3u8"
+    }
+  },
+  "3": {
+    "status": "completed",
+    "last_updated": "2025-12-07 19:06:36",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第03集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18542_50ec186c/1200k/hls/mixed.m3u8"
+    }
+  },
+  "4": {
+    "status": "completed",
+    "last_updated": "2025-12-07 19:13:58",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第04集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18544_005451a9/1200k/hls/mixed.m3u8"
+    }
+  },
+  "5": {
+    "status": "completed",
+    "last_updated": "2025-12-07 19:22:26",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第05集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18546_da2e60ef/1200k/hls/mixed.m3u8"
+    }
+  },
+  "6": {
+    "status": "completed",
+    "last_updated": "2025-12-07 19:34:18",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第06集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18548_ca155717/1200k/hls/mixed.m3u8"
+    }
+  },
+  "7": {
+    "status": "completed",
+    "last_updated": "2025-12-07 19:38:45",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第07集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18547_1a398da8/1200k/hls/mixed.m3u8"
+    }
+  },
+  "8": {
+    "status": "completed",
+    "last_updated": "2025-12-07 19:43:05",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第08集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18550_d2f17c7d/1200k/hls/mixed.m3u8"
+    }
+  },
+  "9": {
+    "status": "completed",
+    "last_updated": "2025-12-07 19:47:52",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第09集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18549_8526d514/1200k/hls/mixed.m3u8"
+    }
+  },
+  "10": {
+    "status": "completed",
+    "last_updated": "2025-12-07 19:52:55",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第10集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18551_13030882/1200k/hls/mixed.m3u8"
+    }
+  },
+  "11": {
+    "status": "completed",
+    "last_updated": "2025-12-07 20:00:17",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第二季\\第11集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18552_f2919fd3/1200k/hls/mixed.m3u8"
+    }
+  },
+  "12": {
+    "status": "completed",
+    "last_updated": "2025-12-07 18:39:54",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者第一季\\第12集.mp4",
+      "url": "https://c1.rrcdnbf3.com/video/xinmeimowangdeqiyuezhediyiji/%E7%AC%AC12%E9%9B%86/index.m3u8"
+    }
+  },
+  "1": {
+    "status": "completed",
+    "last_updated": "2025-12-07 20:25:43",
+    "info": {
+      "file_path": "D:\\person_code\\scrwl\\video\\新妹魔王的契约者DEPARTURES\\第01集.mp4",
+      "url": "https://vip1.lz-cdn5.com/20220518/18530_5a5d6946/1200k/hls/mixed.m3u8"
+    }
+  }
+}

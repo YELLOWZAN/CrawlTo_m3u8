@@ -7,7 +7,7 @@
 ## 环境需求
 
 ### 开发环境
-- Python 3.6+：确保安装了Python 3.6或更高版本
+- Python 3.7+：确保安装了Python 3.7或更高版本
 - 开发工具：推荐使用PyCharm、VS Code等Python开发环境
 
 ### 运行环境
@@ -22,7 +22,7 @@
 ## 安装和启动步骤
 
 ### 1. 安装Python（如果未安装）
-- 从[Python官方网站](https://www.python.org/downloads/)下载并安装Python 3.7或更高版本
+- 从[Python官方网站](https://www.python.org/downloads/)下载并安装Python
 - 确保在安装过程中勾选"Add Python to PATH"
 
 ### 2. 安装依赖
@@ -56,7 +56,7 @@ sudo apt-get install ffmpeg
 # 克隆或下载项目文件到本地目录
 cd /path/to/project
 
-# 运行demo.py
+# demo.py文件内容较旧，不再维护以及增添新功能，建议使用demo2
 python demo.py
 
 # 或运行demo2.py
@@ -92,12 +92,24 @@ python demo2.py
 ### demo2.py 使用指南
 
 1. **准备m3u8地址列表文件**：
-   创建一个txt文件（例如：`url.txt`），每行一个m3u8地址：
+   创建一个txt文件（例如：`url.txt`），支持以下新的数据格式：
+   - 以"[视频作品名称]"格式开头的标题行
+   - 后续为一个或多个视频URL地址，每行一个URL
+   - 不同视频作品之间使用空行分隔
+   
+   示例格式：
    ```
-   https://example.com/video/episode1.m3u8
-   https://example.com/video/episode2.m3u8
-   https://example.com/video/episode3.m3u8
+   [新妹魔王的契约者第一季]
+   https://vip1.lz-cdn5.com/20220518/18545_3aa2caac/1200k/hls/mixed.m3u8
+   https://vip1.lz-cdn5.com/20220518/18545_3aa2caac/1200k/hls/mixed2.m3u8
+   
+   [新妹魔王的契约者第二季]
+   https://vip1.lz-cdn5.com/20220518/18552_f2919fd3/1200k/hls/mixed.m3u8
+   https://vip1.lz-cdn5.com/20220518/18552_f2919fd3/1200k/hls/mixed2.m3u8 
+
    ```
+   
+   注意：该程序m3u8地址支持带鉴权参数的格式（即请求标头中带?auth_key=xxx的部分）。
 
 2. **启动程序**：
    ```bash
@@ -109,9 +121,22 @@ python demo2.py
 
 4. **选择是否继续未完成任务**：
    如果之前有未完成的任务，程序会询问是否继续处理
+   ```
+   发现未完成的任务:
+   第1集: 下载中
+   第2集: 失败
+   是否继续未完成的任务？(y/n): y
+   ```
 
 5. **等待处理完成**：
    程序会自动处理txt文件中的所有m3u8地址，完成后会显示任务摘要
+   ```
+   所有指定集数处理完成！总耗时: 114514.19秒
+
+   任务完成情况摘要:
+   已完成: 2集
+   失败: 1集
+   ```
 
 ## 关键配置项
 
@@ -122,7 +147,7 @@ python demo2.py
 | `TASK_STATUS_FILE` | 任务状态文件路径 | `task_status.json` | 第20行 |
 | `download.log` | 日志文件路径 | `download.log` | 第15行 |
 | `max_retries` | 下载重试次数 | `5` | `download_ts_file_with_retry`函数 |
-| `max_workers` | 最大下载线程数 | `8` | `process_single_episode`函数 |
+| `max_workers` | 最大下载线程数 | `8` | `process_single_episode`函数 （注：不建议开启过大的线程数，把服务器玩坏了就得不偿失了。）|
 | `target_format` | 目标视频格式 | `mp4` | `transcode_video`函数 |
 
 ### demo2.py 配置项
@@ -142,10 +167,13 @@ python demo2.py
 scrwl/
 ├── demo.py                # 原始视频爬取工具
 ├── demo2.py               # 增强版视频爬取工具（支持批量处理）
-├── download.log           # demo.py 日志文件
-├── demo2_log.txt          # demo2.py 日志文件
-├── task_status.json       # demo.py 任务状态文件
-├── demo2_status.json      # demo2.py 任务状态文件
+├── download.log           # demo.py 日志文件（若被误删，则在程序启动后会自动生成，但无法恢复历史记录）
+├── demo2_log.txt          # demo2.py 日志文件（若被误删，则在程序启动后会自动生成，但无法恢复历史记录）
+├── task_status.json       # demo.py 任务状态文件（若被误删，则在程序启动后会自动生成，但无法恢复历史记录）
+├── demo2_status.json      # demo2.py 任务状态文件（若被误删，则在程序启动后会自动生成，但无法恢复历史记录）
+├── url.txt                # m3u8地址数据文档（缺省状态下demo2默认使用text.txt，可由用户指定文件）
+├── mission_complete.wav   # 任务完成音效
+├── mission_fail.wav       # 任务失败音效
 ├── data/                  # 存储下载的TS文件目录
 ├── video/                 # 存储最终转码后的视频文件目录
 └── README.md              # 项目说明文档
@@ -266,60 +294,14 @@ scrwl/
    - 修复了demo中URL模式构建可能导致的错误
    - demo2直接使用完整的m3u8_url，避免了URL模式构建的复杂性
 
-### demo2 使用指南
-
-#### 1. 创建m3u8地址列表文件
-
-创建一个txt文件（例如：`url.txt`），每行一个m3u8地址：
-
-```
-https://vip1.lz-cdn5.com/20220518/18545_3aa2caac/1200k/hls/mixed.m3u8
-https://vip1.lz-cdn5.com/20220518/18552_f2919fd3/1200k/hls/mixed.m3u8
-https://example.com/video/episode3.m3u8
-```
-
-#### 2. 运行demo2.py
-
-```bash
-python demo2.py
-```
-
-#### 3. 输入文件路径
-
-程序会提示输入m3u8地址列表文件路径：
-
-```
-请输入存储m3u8地址的txt文件路径（默认text.txt）: url.txt
-```
-
-#### 4. 选择是否继续未完成任务
-
-如果之前有未完成的任务，程序会询问是否继续处理：
-
-```
-发现未完成的任务:
-第1集: 下载中
-第2集: 失败
-是否继续未完成的任务？(y/n): y
-```
-
-#### 5. 等待处理完成
-
-程序会自动处理所有m3u8地址，完成后显示任务摘要：
-
-```
-所有指定集数处理完成！总耗时: 123.45秒
-
-任务完成情况摘要:
-已完成: 2集
-失败: 1集
-```
-
-#### 注意事项
+### demo2 使用注意事项
 
 1. **文件格式要求**：
-   - txt文件中的每个m3u8地址必须以`.m3u8`结尾
-   - 空行会被自动忽略
+   - 视频作品标题必须以"[视频作品名称]"格式开头和结尾
+   - 每个作品标题后可以跟着一个或多个m3u8地址，每行一个
+   - 不同视频作品之间必须使用空行分隔
+   - txt文件中的每个m3u8地址必须以`.m3u8`结尾（新版程序中增添鉴权模式兼容）
+   - 空行会被自动忽略（除了用于分隔不同作品的空行）
    - 无效的地址会被记录在日志中并跳过
 
 2. **任务状态管理**：
@@ -327,13 +309,19 @@ python demo2.py
    - 日志文件使用`demo2_log.txt`，方便区分不同版本的运行记录
 
 3. **视频文件命名**：
-   - 视频文件将命名为"第X集.mp4"格式
-   - 集数从1开始，自动递增
+   - 程序会自动在`video`目录下为每个视频作品创建对应的子目录
+   - 视频文件将命名为"第X集.mp4"格式，存储在对应作品的子目录中
+   - **每个作品集都会独立编号**，从第1集开始，自动递增
    - 集数不足2位时会自动补零（如"第01集.mp4"）
+   - 例如：
+     - `video/新妹魔王的契约者第一季/第01集.mp4`
+     - `video/新妹魔王的契约者第二季/第01集.mp4`
+     - `video/新妹魔王的契约者OAD/第01集.mp4`
 
 4. **错误处理**：
    - 单个m3u8地址处理失败不会影响其他地址的处理
    - 失败的任务会被记录在任务状态文件中，可以选择重新处理
+   - 单个视频作品处理失败不会影响其他作品的处理
 
 ## 总结
 
